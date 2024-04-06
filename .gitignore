@@ -14,5 +14,7 @@
 *.wpd
 *.wps
 
+TrainedModel/
+
 
 # End of https://www.toptal.com/developers/gitignore/api/text
